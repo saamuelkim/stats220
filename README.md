@@ -1,5 +1,6 @@
 # Stats 220
-This is a repo for **Stats 220 - Project 1** *(Part 1)*.
+This repo has been created for **Part A: Setting up a Github account and repo** for *Project 1*.
+
 
 **This course includes:**
   * Labs
