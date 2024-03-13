@@ -26,7 +26,7 @@ This repo has been created for **Part A: Setting up a Github account and repo** 
 {color: #ffff; background-color: #ff5470;}
 ```
 
-# Useful Links
+## Useful Links
  * Learn more about **STATS 220** [here](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213).
  * Learn more about **University of Auckland(UoA)** [here](https://www.auckland.ac.nz/en.html).
 
